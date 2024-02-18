@@ -1,0 +1,9 @@
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/Kotitehtava6.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/edit_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/list_install_components.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/install.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/install/local.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/install/strip.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/Kotitehtava6_autogen_timestamp_deps.dir
+C:/Users/jusse/Documents/QT harjoitukset/Kotitehtava6/build/CMakeFiles/Kotitehtava6_autogen.dir
